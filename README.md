@@ -3,7 +3,7 @@
 This repository contains notes, mathematical derivation, and a Python notebook for analyzing the quenched bosonic quantum battery. If you find this repository helpful for your own projects, we would appreciate if you cite our paper "**Algebraic power scaling in a slowly-quenched bosonic quantum battery**" (<a href="https://arxiv.org/pdf/2511.23081">arXiv:2511.23081</a>).
 
 
-For the best online rendering of the Python notebook, please use <a href="https://nbviewer.jupyter.org/">nbviewer.jupyter.org</a> and type this GitHub repository address.
+For the best online rendering of the Python notebook, you can use <a href="https://nbviewer.jupyter.org/">nbviewer.jupyter.org</a> and type this GitHub repository address</a>.
 
 
 **Contributors**:
